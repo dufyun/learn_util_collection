@@ -20,6 +20,9 @@ TestHttpUtil.java  测试工具类
 详情使用请参考：<a href="http://blog.csdn.net/u010648555/article/details/50674868" target="_blank">统计java代码行数和jar包中*.class代码的行数</a>
 
 
+<h4>4.一键批量启动软件服务小工具</h4>
+详情使用请参考：<a href="http://blog.csdn.net/u010648555/article/details/77097940" target="_blank">一键批量启动软件服务小工具</a>
+
 ----------
 <font size='12' color='green'>持续更新.....</font>
 

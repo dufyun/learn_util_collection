@@ -1,0 +1,47 @@
+本批处理仅适用于windows系统
+
+批量启动软件...
+
+---------------------------------------------------------
+脚本会自动以管理员身份运行，CMD运行后会弹出一个提示，
+
+按提示输入
+
+请选择使用：
+
+ 1.启动工作模式的软件（即在下面输入1）
+
+ 2.启动家庭模式的软件（即在下面输入2）
+
+选择 1 打开工作模式的软件
+
+选择 2 打开家庭模式的软件
+
+
+---------------------------------------------------------
+注意：
+	使用前请进行自定义配置，包括自定义提示语和软件启动地址！
+	
+（1）自定义提示语
+	rem Configuration message start 
+	这个注释下，修改为自己喜欢的提示语
+	rem Configuration message end
+
+（2）自定义打开软件地址：
+	a:工作模式
+	rem Here to start the work software configuration
+	#软件安装的地址的exe启动程序 ,如下是我QQ软件的启动地址配置
+	start "QQ" "F:\Program Files\Tencent\QQ\Bin\QQScLauncher.exe""
+	rem Here to end the work software configuration
+	
+	b:家庭模式
+	rem Here to start the home software configuration
+	#软件安装的地址的exe启动程序 ,如下是我QQ软件的启动地址配置
+	start "QQ" "F:\Program Files\Tencent\QQ\Bin\QQScLauncher.exe""
+	rem Here to end the home software configuration
+
+
+---------------------------------------------------------
+使用说明地址：http://blog.csdn.net/u010648555/article/details/77097940
+
+Copyright (c) dufy：2017 742981086@qq.com
