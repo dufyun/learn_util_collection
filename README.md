@@ -35,3 +35,12 @@ TestHttpUtil.java  测试工具类
 "<font size=5>**不管做什么，只要坚持下去就会看到不一样！在路上，不卑不亢!**</font>"
 
 <font size=4 color=red> 博客首页</font>：<a href="http://blog.csdn.net/u010648555" target="_blank">http://blog.csdn.net/u010648555</a>
+
+
+
+<font color='blue'>欢迎关注我的公众号： Java编程技术乐园。分享技术，一起精进Quartz! </font>
+
+**愿你我在人生的路上能都变成最好的自己，能够成为一个独挡一面的人**
+![](http://dufyun.gitee.io/images_bed/images/life/qrcode_javaCoder.png)
+
+&copy; 每天都在变得更好的阿飞云
